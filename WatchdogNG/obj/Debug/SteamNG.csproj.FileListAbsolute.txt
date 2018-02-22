@@ -1,0 +1,23 @@
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\Data\Servers.xml
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\SteamNG.exe
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\SteamNG.pdb
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\Ionic.BZip2.dll
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\QueryMaster.dll
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\QueryMaster.xml
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\obj\Debug\SteamNG.exe
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\obj\Debug\SteamNG.pdb
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\obj\Debug\SteamNG.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\Data\Servers.xml
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\SteamNG.exe.config
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\SteamNG.exe
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\SteamNG.pdb
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\Ionic.BZip2.dll
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\QueryMaster.dll
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Debug\QueryMaster.xml
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\obj\Debug\SteamNG.exe
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\obj\Debug\SteamNG.pdb
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Debug\SteamNG.exe.config

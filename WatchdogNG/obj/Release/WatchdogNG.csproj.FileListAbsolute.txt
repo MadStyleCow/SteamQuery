@@ -1,0 +1,4 @@
+c:\users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\bin\Release\WatchdogNG.exe
+c:\users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\bin\Release\WatchdogNG.pdb
+c:\users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\obj\Release\WatchdogNG.exe
+c:\users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\obj\Release\WatchdogNG.pdb

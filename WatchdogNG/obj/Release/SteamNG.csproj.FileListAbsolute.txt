@@ -1,0 +1,24 @@
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\data\servers.xml
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\SteamNG.exe.config
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\SteamNG.exe
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\SteamNG.pdb
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\Ionic.BZip2.dll
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\Newtonsoft.Json.dll
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\QueryMaster.dll
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\Newtonsoft.Json.xml
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\bin\Release\QueryMaster.xml
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\obj\Release\SteamNG.exe
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\obj\Release\SteamNG.pdb
+C:\Users\moroz\Desktop\SteamNG\WatchdogNG\obj\Release\SteamNG.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\Data\Servers.xml
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\SteamNG.exe.config
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\SteamNG.exe
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\SteamNG.pdb
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\Ionic.BZip2.dll
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\Newtonsoft.Json.dll
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\QueryMaster.dll
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\Newtonsoft.Json.xml
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\bin\Release\QueryMaster.xml
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\obj\Release\SteamNG.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\obj\Release\SteamNG.exe
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\obj\Release\SteamNG.pdb

@@ -1,0 +1,7 @@
+C:\Users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\bin\Debug\WatchdogNG.exe
+C:\Users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\bin\Debug\WatchdogNG.pdb
+C:\Users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\obj\Debug\WatchdogNG.exe
+C:\Users\moroz\documents\visual studio 2015\Projects\WatchdogNG\WatchdogNG\obj\Debug\WatchdogNG.pdb
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\WatchdogNG\WatchdogNG\obj\Debug\WatchdogNG.csprojResolveAssemblyReference.cache
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\obj\Debug\WatchdogNG.exe
+C:\Users\moroz\Documents\Visual Studio 2015\Projects\SteamNG\WatchdogNG\obj\Debug\WatchdogNG.pdb
